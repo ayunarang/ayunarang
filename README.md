@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **ayunarang/ayunarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I am Ayushi👋</h1>
+<h3 align="center">Hey, I am Ayushi👋</h1>
 
 - 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django!</a>
 - 💬 Ask me about <strong>web development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayushinarang21/" target="_blank">Ayushi Narang</a>
 - ⚡ Things I love: Coffee, books and music
 
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayunarang&show_icons=true">
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayunarang&show_icons=true"></p>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ayunarang"><img src="https://icons8.com/icon/13963/twitter"></a>
-  <a href="https://www.linkedin.com/in/ayushinarang21"><img src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin"></a>
+  <p align="center">
+  <a href="https://twitter.com/ayunarang"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"></a>
+  <a href="https://www.linkedin.com/in/ayushinarang21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"></a>
+  <a href="discordapp.com/users/1152676047523950602"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"></a>
+  
   </p>
   
 
