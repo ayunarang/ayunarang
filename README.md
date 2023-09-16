@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center">Hey, I am Ayushi👋</h1>
+&nbsp;&nbsp;
 
 - 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django!</a>
 - 💬 Ask me about <strong>web development</strong>
@@ -25,9 +26,9 @@ Here are some ideas to get you started:
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayunarang&show_icons=true"></p>
   &nbsp;&nbsp;&nbsp;
   <p align="center">
-  <a href="https://twitter.com/ayunarang"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg"></a>
-  <a href="https://www.linkedin.com/in/ayushinarang21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"></a>
-  <a href="discordapp.com/users/1152676047523950602"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"></a>
+  <a href="https://twitter.com/ayunarang"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" width="30" height="30"></a>
+  <a href="https://www.linkedin.com/in/ayushinarang21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30" height="30"></a>
+  <a href="discordapp.com/users/1152676047523950602"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" width="30" height="30"></a>
   
   </p>
   
