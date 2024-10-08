@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 <h3 align="center">Hey, I am Ayushi👋</h1>
 &nbsp;&nbsp;
 
-- 🌱 I’m currently learning <a href="https://www.djangoproject.com/" target="_blank">Django!</a>
 - 💬 Ask me about <strong>web development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayushinarang21/" target="_blank">Ayushi Narang</a>
 - ⚡ Things I love: Coffee, books and music
