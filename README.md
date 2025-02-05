@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>web development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayushinarang21/" target="_blank">Ayushi Narang</a>
 - ⚡ Things I love: Coffee, books and music
-
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ayunarang&show_icons=true"></p>
   &nbsp;&nbsp;&nbsp;
   <p align="center">
   <a href="https://twitter.com/ayunarang"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" width="30" height="30"></a>
