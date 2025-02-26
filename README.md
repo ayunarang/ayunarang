@@ -23,10 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Things I love: Coffee, books and music
   &nbsp;&nbsp;&nbsp;
   <p align="center">
-  <a href="https://twitter.com/ayunarang"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" width="30" height="30"></a>
-  <a href="https://www.linkedin.com/in/ayushinarang21"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30" height="30"></a>
-  <a href="discordapp.com/users/1152676047523950602"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" width="30" height="30"></a>
-  
+  <a href="https://www.linkedin.com/in/ayushinarang/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30" height="30"></a>  
   </p>
   
 
