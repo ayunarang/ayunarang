@@ -19,12 +19,9 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 
 - 💬 Ask me about <strong>web development</strong>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ayushinarang21/" target="_blank">Ayushi Narang</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ayushinarang/" target="_blank">Ayushi Narang</a>
 - ⚡ Things I love: Coffee, books and music
   &nbsp;&nbsp;&nbsp;
-  <p align="center">
-  <a href="https://www.linkedin.com/in/ayushinarang/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" width="30" height="30"></a>  
-  </p>
   
 
 
