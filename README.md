@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h3 align="center">Hey, I am Ayushi👋</h1>
 &nbsp;&nbsp;
 
-- 💬 Ask me about <strong>web development</strong>
+- 💬 Ask me about <strong>Full Stack Development</strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ayushinarang/" target="_blank">Ayushi Narang</a>
-- ⚡ Things I love: Coffee, books and music
+- ⚡ Things I love: Coffee, books, coding and music
   &nbsp;&nbsp;&nbsp;
   
 
